@@ -1,0 +1,28 @@
+<html>
+<head>
+</head>
+<body>
+<table border=10>
+<tr>
+	<td><b>Sira</b></td>
+	<th><b>Sehir</b></th>
+	<td><b>Populasyon<b/></td>
+</tr>
+<tr>
+	<td align=center>1</td>
+	<td>Londra</td>
+	<td>12.000</td>
+</tr>
+<tr>
+	<td>2</td>
+	<td>Paris</td>
+	<td>11.000</td>
+</tr>
+<tr>
+	<td align=right>3</td>   
+	<td>Madrid</td>
+	<td>10.000</td>
+</tr>
+</table>
+</body>
+</html>
