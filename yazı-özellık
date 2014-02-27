@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+<h2>Başlık</h2>
+Yazın ekrana cıkar
+<p>paragraf farki
+<br/>normal alta indirir.
+<br/><b>kalin satir</b> yaziyorum
+<br/><strong>kalin satir2</strong> yaziyorum
+<br/><em>yatik satir</em> yaziyorum
+<br/><em><b>kalin+yatik satir</b></em> yaziyorum
+<!-- not  burasii 
+</body>
+</html>
