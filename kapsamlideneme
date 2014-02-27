@@ -1,0 +1,58 @@
+<html>
+<head>
+<style type="text/css">
+body{font-family:Cursive;color:yellow;background-image: url(gs.jpg);background-position:-500px -200px;}
+th{font-family:Tahoma;font-style:italic;}
+h3{color:black;}
+table{background:black;border: solid white 2px;}
+tr{}
+</style>
+<title>Galatasaray.org 
+</title>
+</head>
+<body>
+<a name="sayfabaşı"></a>
+<form>
+Kullanıcı adı:<input type="text" name="kullanici_adi" size"10" maxlength="10" value="Yazınız..."/>Şifre:<input type="password" name="sif"/>
+<hr/>
+</form>
+<h3>Galatasaray Tarihçesi</h3>
+Galatasaray Spor Kulübü 1905 yılında, Ali Sami Yen önderliğinde Galatasaray Lisesi'nde Türkiye'nin ilk futbol takımı olarak kurulmuştur. Kurucuları: Ali Sami Yen, Asım Tevfik Sonumut, Emin Bülent Serdaroğlu, Celal İbrahim, Bekir Sıtkı Bircan, Reşat Şirvanizade, Refik Cevdet Kalpakçıoğlu, Abidin Daver.
+<h4>İlk on bir'i şu şekilde</h4>
+<ol>
+<li>Muslera</li><li>Eboue</li><li>Semih</li><li>Chedjou</li><li>Telles</li><li>Ceyhun</li><li>Melo</li><li>Selçuk</li><li>Sneijder</li><li>Drogba</li><li>Burak</li>
+<h3>Kupa Tablosu</h3>
+<table border=1 cellpadding=2 cellspacing=2>
+<tr><th colspan=4>Şanlı Kupalarımız</th>
+</tr>
+<tr>
+<th><i>Süper Lig</i></th><th><i>Türkiye Kupası</i></th><th><i>Uefa Kupası</i></th><th><i>Süper Kupa</i></th>
+</tr>
+<tr> 
+<th>19</th><th>14</th><th>1</th><th>1</th>
+</tr>
+</table>
+<p>Şanlı tarihteki bazı kupalar bunlardır.Galatasarayın en önemli özelliği avrupa kupasını Türkiye coğrafisine getiren <b><i>ilk</i></b> Türk takımıdır.Daha fazlası için resmi sitemizi ziyaret etmenizi öneriririz.Galatasaray resmi sitesine <i><a href="http://www.galatasaray.org/" title="Resmi Site">buraya</a></i> basarak ulaşabilirsiniz.Maillerinizide <a href="mail to:onur.anli@bil.omu.edu.tr">buradan</a> atınız.
+</p>
+</br><h2>Galatasaraydan kupa şov</h2>
+</br><img align=center src="kupa.jpg" >
+<h2 align=center>ANKETLER</h2>
+<br/><b>En sevdiğiniz oyuncu kimdir?</b>
+<br/><input type="radio" name="oyuncular" value="drogba">Drogba
+<br/><input type="radio" name="oyuncular" value="drogba">Sneijder
+<br/><input type="radio" name="oyuncular" value="drogba">Melo
+<br/><input type="radio" name="oyuncular" value="drogba">Muslera
+<br/><input type="radio" name="oyuncular" value="drogba">Selçuk
+<br/><b>Sexdiğin oyun tarzı nedir?Birkaç seçenek seçmek mümkün...</b>
+<br/><input type="checkbox" name="tarz" value="a">Agresif hücüm
+<br/><input type="checkbox" name="tarz" value="a">Defansif
+<br/><input type="checkbox" name="tarz" value="a">Kontra
+<br/><input type="checkbox" name="tarz" value="a">Pas oyunu
+<br/> <a href="mailto:onur.anli@bil.omu.edu.tr">Gönder</a>
+<form>
+Size daha iyi hizmet etmek için yorumlarınızı bizden esirgemeyin..
+<textarea name="yorum"/ cols="100"/>Yorumlarınızı yazınız...</textarea>
+</form>
+</br><a href=#sayfabaşı align=center> Sayfa Başına Geri Dön</a>
+</body>
+</html>
