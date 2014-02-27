@@ -1,0 +1,17 @@
+<html>
+Bosluga yazdim
+<head>
+Heade yazdigim kisim daha teknik
+<title>
+title yazdigim kisim
+</title>
+</head>
+
+<body>
+<h1>baslik 1 burada yazilan net in  icinde baslik yapar</h1>
+<hr/>(bu cizgi koyar)
+<h2>bu 2.baslik</h2>
+<h5>baska baslik</h5>
+Body kismina yazdigim kisim.Sayfada yazdigim kisim.
+</body>
+</html>
